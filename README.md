@@ -131,6 +131,6 @@ If you use this code or its algorithmic definitions in your research within hist
   author = {Independent Center for Space Research (ICSR)},
   title = {Ancient-Core: Universal Computational Framework for Ethnomathematics and Archeo-Astronomy},
   year = {2026},
-  url = {https://github.com/ancient-core}
+  url = {[https://github.com/ancient-core](https://github.com/stdm-topological-framework/ancient-core)}
 }
 ```
