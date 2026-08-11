@@ -21,7 +21,7 @@ class BabylonianNumericEngine:
         if n <= 0:
             return False
         temp = n
-        for prime in:
+        for prime in [2, 3, 5]:
             while temp % prime == 0:
                 temp //= prime
         return temp == 1
