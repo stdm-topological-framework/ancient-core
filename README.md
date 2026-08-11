@@ -26,24 +26,36 @@ The framework is structured as a unified, tightly typed monorepository partition
 ```text
 ancient-core/
 │
-├── README.md                  # Global research manifesto and architecture
-├── requirements.txt           # Environment dependencies (numpy, matplotlib, etc.)
+├── README.md               # Global research manifesto and architecture
+├── requirements.txt         # Environment dependencies (numpy, matplotlib, etc.)
 │
-├── china/                     # Sinitic Algorithmic Tradition
-│   ├── cauldron_simulator.py  # Waidan (外丹) phase-transition discrete automaton
-│   └── shao_yong_matrix.py    # Shao Yong (邵雍) 6-bit binary cyclic space-time matrix
+├── africa/                  # Sub-Saharan Geometric & Logical Traditions
+│   └── sona_graphs.py       # Chokwe "Sona" sand-graph Eulerian path generator
 │
-├── india/                     # Vedic & Kerala Mathematical Traditions
-│   └── kuttaka_solver.py      # Brahmagupta’s (VII c.) "Pulverizer" astronomical solver
+├── america/                 # Indigenous American Computational Systems
+│   ├── medicine_wheel.py    # Non-Euclidean "Medicine Wheels" astronomical calculators
+│   ├── quipu_decoder.py     # Hierarchical Inca Quipu data matrix parser & validator
+│   ├── quipu_encoder.py     # Inca Quipu uldular data serializer (JSON-to-Quipu)
+│   └── navajo_cellular.py   # Navajo Diné procedural fractal weaving engine (Cellular Automata)
 │
-├── japan/                     # Wasan (和算) Edo-Period Mathematics
-│   └── sangaku_generator.py   # Sangaku (算额) non-trigonometric geometric engine
+├── babylon/                 # Mesopotamian Mathematics
+│   └── base64_cascade.py    # Sexagesimal divisionless reciprocal arithmetic engine
 │
-├── russia/                    # Old Russian Computational Manuscripts
-│   └── kirik_time.py          # Kirik the Novgorodian's (1136) 5-ary fractal time engine
+├── china/                   # Sinitic Algorithmic Tradition
+│   ├── cauldron_simulator.py # Waidan (外丹) phase-transition discrete automaton
+│   └── shao_yong_matrix.py  # Shao Yong (邵雍) 6-bit binary cyclic space-time matrix
 │
-└── africa/                    # Sub-Saharan Geometric & Logical Traditions
-    └── sona_graphs.py         # Chokwe "Sona" sand-graph Eulerian path generator
+├── incas/                   # Legacy Andean Administrative Computations (Merged to /america)
+│
+├── india/                   # Vedic & Kerala Mathematical Traditions
+│   └── kuttaka_solver.py    # Brahmagupta's (VII c.) "Pulverizer" astronomical solver
+│
+├── japan/                   # Wasan (和算) Edo-Period Mathematics
+│   └── sangaku_generator.py # Sangaku (算额) non-trigonometric geometric engine
+│
+└── russia/                  # Old Russian Computational Manuscripts
+    └── kirik_time.py        # Kirik the Novgorodian's (1136) 5-ary fractal time engine
+
 ```
 
 ---
