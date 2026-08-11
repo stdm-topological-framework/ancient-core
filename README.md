@@ -1,9 +1,11 @@
 # Ancient-Core: Universal Computational Framework for Ethnomathematics and Archeo-Astronomy
+---
 
    
 [![License: MIT](https://shields.io)](https://opensource.org)
 [![Python 3.10+](https://shields.io)](https://python.org)
 [![Institution: ICSR](https://shields.io)](https://github.com/stdm-topological-framework)
+---
 
 Developed under the auspices of the **Independent Center for Space Research (ICSR)**.
 
