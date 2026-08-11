@@ -6,11 +6,8 @@
 [![Python 3.10+](https://shields.io)](https://python.org) &nbsp;
 [![Institution: ICSR](https://shields.io)](https://github.com/stdm-topological-framework)
 ---
-<p id="badges">
-  <a href="https://opensource.org"><img src="https://shields.io" alt="MIT License"></a>
-  <a href="https://python.org"><img src="https://shields.io" alt="Python Version"></a>
-  <a href="https://github.com"><img src="https://shields.io" alt="Institution"></a>
-</p>
+[![License: MIT](https://shields.io)](https://opensource.org) &nbsp; [![Python 3.10+](https://shields.io)](https://python.org) &nbsp; [![Institution: ICSR](https://shields.io)](https://github.com)
+
 Developed under the auspices of the **Independent Center for Space Research (ICSR)**.
 
 ---
