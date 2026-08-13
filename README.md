@@ -157,11 +157,15 @@ This framework is open-sourced under the **MIT License**.
 
 If you use this code or its algorithmic definitions in your research within historical astronomy, computational linguistics, or ethnomathematics, please cite this framework as:
 
-```text
-@software{ancient_core_2026,
-  author = {Independent Center for Space Research (ICSR)},
-  title = {Ancient-Core: Universal Computational Framework for Ethnomathematics and Archeo-Astronomy},
-  year = {2026},
-  url = {[https://github.com/ancient-core](https://github.com/stdm-topological-framework/ancient-core)}
+### BibTeX Format (for LaTeX / Overleaf users)
+```bibtex
+@misc{ancient_core_2026,
+  author       = {Moiseenko Aleksandr},
+  title        = {Ancient-Core: Universal Computational Framework for Ethnomathematics and Archeo-Astronomy},
+  year         = {2026},
+  publisher    = {GitHub},
+  journal      = {GitHub Repository},
+  howpublished \(= {\url{[https://github.com/ancient-core](https://github.com/stdm-topological-framework/ancient-core)}},\)
+  note         = {ORCID: [https://orcid.org/0009-0006-4124-5954]}
 }
 ```
