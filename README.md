@@ -21,6 +21,25 @@ Many of these methods do not use vectors or matrices; instead, they operate on c
 
 ---
 
+## 🎓 Academic Foundations & Theoretical Framework
+
+Ancient-Core is not a standalone conceptual experiment; it strictly operationalizes **Ethnomathematics**—a legitimate, internationally recognized interdisciplinary field at the intersection of mathematics, anthropology, and computer science. 
+
+Our work is theoretically grounded in the foundational frameworks established by global academic pioneers:
+
+*   **Dr. Ubiratan D'Ambrosio (1932–2021)** — The father of Ethnomathematics and former President of the International Commission on the History of Mathematics (ICHM). His seminal research proves that diverse cultures developed highly sophisticated, autonomous computing traditions tailored to their resource-constrained environments.
+*   **The International Study Group on Ethnomathematics (ISGEm)** — A global research community analyzing alternative discrete mathematical structures since 1985.
+*   **Digital Humanities (DH)** — Modern computer science practices applied to cultural, historical, and archaeological manuscript reverse-engineering.
+
+### 📚 Key Scientific Literature Reference
+
+> "Mathematics is thoroughly integrated with the cultural context... Ethnomathematics is the mathematics practiced among identifiable cultural groups."  
+> — *Dr. Ubiratan D'Ambrosio, "Ethnomathematics: Link between Anthropology and History of Mathematics"*
+
+By translating these historical, context-dependent computational systems into concrete **Python 3 / NumPy / Finite-State Automata** implementations, this framework bridges the gap between static paper archives and active modern computing architecture.
+
+---
+
 ## 🗺️ Global Monorepository Architecture
 
 The framework is structured as a unified, tightly typed monorepository partitioned by cultural and geographic computing traditions:
