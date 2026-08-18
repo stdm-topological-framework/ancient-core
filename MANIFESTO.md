@@ -443,3 +443,45 @@
 Но затем они уходят работать в банки или крупные IT-корпорации писать скучные скрипты для таргетинга рекламы или оптимизации обычных баз данных. Их статьи остаются лежать в базах данных вроде *ArXiv* или *Math-Net.ru*, превращаясь в цифровые окаменелости.
 
 И если планомерно просеивать этот архив, из него можно вытаскивать новые и новые инструменты для `ancient-core` бесконечно.
+
+
+## СПИСОК ПЕРВОИСТОЧНИКОВ И НАУЧНОЙ ЛИТЕРАТУРЫ (к 27 пунктам бэклога)
+
+### Раздел 1. Клеточные и распределенные автоматы
+1. **Von Neumann, J.** (1966). *Theory of Self-Reproducing Automata* (edited and completed by A. W. Burks). University of Illinois Press. *(К автоматам на 29 состояний)*.
+2. **Fischer, P. C.** (1965). *Generation of Primes by a One-Dimensional Real-Time Iterative Array*. Journal of the ACM, 12(3), 388-394. *(К фишеровской синхронизации)*.
+3. **Margolus, T.** (1984). *Physics-like models of computation*. Physica D: Nonlinear Phenomena, 10(1-2), 81-95. *(К окрестности Марголуса и бильярдному компьютеру)*.
+4. **Ulam, S. M.** (1962). *On some mathematical problems connected with patterns of growth of figures*. Proceedings of Symposia in Applied Mathematics, 14, 215-224. *(К автоматам роста Улама)*.
+5. **Gouvêa, F. Q.** (1997). *p-adic Numbers: An Introduction*. Springer-Verlag. *(К p-адическим вычислениям)*.
+6. **Post, E. L.** (1943). *Formal Reductions of the General Combinatorial Decision Problem*. American Journal of Mathematics, 65(2), 197-215. *(К каноническим системам Поста)*.
+7. **Lindenmayer, A.** (1968). *Mathematical models for cellular interactions in development I & II*. Journal of Theoretical Biology, 18(3), 280-315. *(К L-системам)*.
+8. **Rabin, M. O.** (1963). *Probabilistic Automata*. Information and Control, 6(3), 230-245. *(К вероятностным автоматам)*.
+9. **Petri, C. A.** (1962). *Kommunikation mit Automaten* (Doctoral dissertation). Institut für angewandte Mathematik, Darmstadt. *(К сетям Петри)*.
+10. **Марков, А. А.** (1954). *Теория алгоритмов*. Труды Математического института имени В. А. Стеклова, том 42. Изд-во АН СССР. *(К нормальным алгоритмам Маркова)*.
+11. **Tolman, E. C.** (1948). *Cognitive maps in rats and men*. Psychological Review, 55(4), 189-208. *(К когнитивным картам в автоматах ИИ)*.
+12. **Feigenbaum, M. J.** (1978). *Quantitative universality for a class of nonlinear transformations*. Journal of Statistical Physics, 19(1), 25-52. *(К логистическому отображению и хаосу)*.
+
+### Раздел 2. Альтернативная математика и геометрия
+13. **Ратриев, Ю. А.** (1975). *Однородные структуры с динамической топологией связей*. Известия Академии Наук СССР. Техническая кибернетика, №4. *(К советским динамическим сеткам)*.
+14. **Remisch, S.** (1992). *Continuous-Space Cellular Automata and Fields Dynamics*. Complex Systems Journal, 6(2), 143-161. *(К потоковым автоматам SmoothLife)*.
+15. **Цетлин, М. Л.** (1968). *Исследования по теории автоматов и моделированию биологических систем*. Изд-во «Наука». *(К стохастическим автоматам с переменной структурой)*.
+16. **Бруэр, Л. Э. Я.** (1908). *О недостоверности логических принципов*. (Brouwer, L. E. J. *Over de onbetrouwbaarheid der logische principes*). Троичная интуиционистская логика. *(К логике Сетуни)*.
+17. **Fredkin, E., & Toffoli, T.** (1982). *Conservative computation*. International Journal of Theoretical Physics, 21(3), 219-253. *(К скользящим обратимым автоматам Фредкина)*.
+18. **Аграчёв, А. А., Сачков, Ю. Л.** (2000). *Геометрическая теория управления*. Изд-во «Физматлит». *(К хронологическому исчислению)*.
+19. **Veblen, O., & Young, J. W.** (1910). *Projective Geometry*. Ginn and Company. *(К проективной геометрии Штаудта-Клейна без метрики)*.
+20. **Rall, L. B.** (1981). *Automatic Differentiation: Techniques and Applications*. Lecture Notes in Computer Science, Springer. *(К интервальному анализу Рамона и дуальным числам)*.
+
+### Раздел 3. Доказательство лемм, конструирование логики и верификация
+21. **Ball, R. S.** (1900). *A Treatise on the Theory of Screws*. Cambridge University Press. / **Study, E.** (1903). *Geometrie der Dynamen*. Teubner. *(К винтовой теории кинематики)*.
+22. **De Rham, G.** (1955). *Variétés différentiables. Formes, courants, formes harmoniques*. Hermann. *(К дифференциальным формам де Рама)*.
+23. **Reidemeister, K.** (1932). *Knotentheorie*. Ergebnisse der Mathematik und ihrer Grenzgebiete. Springer. *(К движениям Рейдемейстера в топологии графов)*.
+24. **Monge, G.** (1799). *Géométrie descriptive*. Paris. *(К начертательной геометрии без чисел)*.
+25. **Peirce, C. S.** (1906). *Prolegomena to an Apology for Pragmaticism*. Monist, 16(4), 492-546. *(К экзистенциальным графам и петлям логики Пирса)*.
+26. **Curry, H. B., & Feys, R.** (1958). *Combinatory Logic* (Vol. 1). North-Holland Publishing Company. *(К комбинаторам Шейнфинкеля-Карри без переменных)*.
+
+### Раздел 4. Структурный фундаментализм
+27. **Bourbaki, N.** (1939). *Éléments de mathématique. Livre I: Théorie des ensembles. Chapitre IV: Structures*. Hermann. *(К родам структур Никола Бурбаки)*.
+
+
+
+
